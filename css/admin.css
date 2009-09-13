@@ -1,0 +1,29 @@
+.revisiondiff {
+    line-height: 11px;
+    padding-left: 15px;
+}
+
+.revisiondiff ins {
+    color: green;
+}
+
+.revisiondiff del {
+    color: red;
+}
+
+table.approve {
+    border:1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+table.approve th, table.approve td {
+    border:1px solid black;
+    padding: 4px;
+}
+
+table.approve th {
+    background: #404886;
+    color: white;
+    font-weight: bold;
+}
